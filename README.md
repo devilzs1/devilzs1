@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning new technologies & frameworks.
 
-- 💬 Ask me about **MERN ,Cybersecurity, Network Security & management**
+- 💬 Ask me about **MERN , Cybersecurity, Network Security & management**
 
 - ⚡ Fun fact **I enjoy coding more than thinking**
 
