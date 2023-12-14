@@ -3,9 +3,9 @@
 <h3 align="center">A passionate software developer and cybersecurity analyst.</h3>
 <!-- <img align="right" alt="Learn & Code" width="400" src="https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.gif" /> -->
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning new technologies & frameworks.
 
-- 💬 Ask me about **MERN , Network Security**
+- 💬 Ask me about **MERN ,Cybersecurity, Network Security & management**
 
 - ⚡ Fun fact **I enjoy coding more than thinking**
 
