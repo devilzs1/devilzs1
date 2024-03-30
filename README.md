@@ -18,5 +18,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devilzs1&show_icons=true&locale=en&layout=compact" alt="devilzs1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devilzs1&" alt="devilzs1" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devilzs1&" alt="devilzs1" /></p> -->
 
