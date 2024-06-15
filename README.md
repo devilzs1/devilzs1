@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Adil</h1>
 <h3 align="center">A passionate software developer and cybersecurity enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Next.js and DevOps**
+- 🌱 I’m currently learning **DevOps & Testing**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-adil.vercel.app/](https://portfolio-adil.vercel.app/)
 
