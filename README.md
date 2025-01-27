@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Adil</h1>
 <h3 align="center">A passionate software developer and cybersecurity enthusiast from India</h3>
 
-- 🌱 I’m currently learning **DevOps & Testing**
+- 🌱 I’m currently learning **Development using GO Programming**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-adil.vercel.app/](https://portfolio-adil.vercel.app/)
 
-- 💬 Ask me about **MERN stack development, Cybersecurity, Network Security & management**
+- 💬 Ask me about **Fullstack Development, Testing, Cybersecurity, Network Security & management**
 
 - ⚡ Fun fact **I enjoy coding more than thinking**
 
