@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-adil.vercel.app/](https://portfolio-adil.vercel.app/)
 
-- 💬 Ask me about **Fullstack Development, Testing, Cybersecurity, Network Security & management**
+- 💬 Ask me about **Software Development, System Design, Automation & Testing**
 
 - ⚡ Fun fact **I enjoy coding more than thinking**
 
